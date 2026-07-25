@@ -1,0 +1,90 @@
+{
+  "school_name": "河池学院",
+
+  "basic_information": {
+    "location": "广西壮族自治区河池市宜州区庆远镇",
+    "school_type": "本科院校",
+    "education_level": "本科教育",
+    "target": "培养应用型人才"
+  },
+
+  "student_concerns": [
+    "学校有哪些学习资源",
+    "校园生活怎么样",
+    "大学期间应该如何规划",
+    "如何提升就业竞争力"
+  ],
+
+  "learning_resources": {
+    "library": {
+      "importance": "学生学习的重要场所",
+      "usage": [
+        "查阅资料",
+        "自主学习",
+        "准备考试"
+      ]
+    },
+
+    "laboratory": {
+      "importance": "专业实践和科研学习的重要平台"
+    },
+
+    "innovation_platform": {
+      "importance": "支持学生参加创新创业和竞赛"
+    }
+  },
+
+  "college_growth": {
+    "freshman": {
+      "goal": [
+        "适应大学生活",
+        "了解专业方向",
+        "建立学习习惯"
+      ]
+    },
+
+    "sophomore": {
+      "goal": [
+        "提升专业能力",
+        "参加专业实践",
+        "积累项目经验"
+      ]
+    },
+
+    "junior": {
+      "goal": [
+        "大学毕业就工作",
+        "考研",
+        "考研考公"
+      ]
+    },
+
+    "senior": {
+      "goal": [
+        "完成毕业要求",
+        "准备毕业设计",
+        "规划未来发展"
+      ]
+    }
+  },
+
+  "common_questions": [
+    {
+      "question": "大一新生应该做什么",
+      "answer_direction": [
+        "了解学校资源",
+        "学习基础课程",
+        "探索专业方向"
+      ]
+    },
+
+    {
+      "question": "大学如何提高就业竞争力",
+      "answer_direction": [
+        "掌握专业技能",
+        "参加项目",
+        "积累实践经验"
+      ]
+    }
+  ]
+}
