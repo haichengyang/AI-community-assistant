@@ -1,0 +1,260 @@
+{
+  "major_name": "数据科学与大数据技术",
+
+  "school": "河池学院",
+
+  "source": {
+    "document": "2022年数据科学与大数据技术本科专业人才培养方案",
+    "type": "official_training_plan"
+  },
+
+
+  "major_profile": {
+
+    "discipline": "计算机科学与技术",
+
+    "degree": "工学学士",
+
+    "study_duration": "4年",
+
+    "graduation_credits": 165,
+
+    "training_goal": "培养具备数据科学和大数据技术理论、知识、技能，掌握大数据采集、处理、存储和分析技术，能够从事大数据管理、研究和应用开发的应用型技术人才。"
+
+  },
+
+
+  "career_orientation": [
+
+    {
+      "position": "大数据分析师",
+
+      "work_content": [
+        "数据采集",
+        "数据清洗",
+        "数据分析",
+        "数据挖掘"
+      ],
+
+      "core_abilities": [
+        "数据处理能力",
+        "算法分析能力",
+        "数据分析能力"
+      ]
+    },
+
+
+    {
+      "position": "大数据应用开发工程师",
+
+      "work_content": [
+        "开发大数据应用程序",
+        "搭建数据平台"
+      ],
+
+      "core_abilities": [
+        "编程能力",
+        "系统开发能力"
+      ]
+    }
+
+  ],
+
+
+
+  "core_courses": [
+
+    {
+      "course_name": "数据结构与算法",
+
+      "official_category": "专业核心课程",
+
+      "importance": 5,
+
+      "ai_advice": "影响算法能力和程序设计能力，是计算机方向的重要基础课程。"
+    },
+
+
+    {
+      "course_name": "Python程序设计",
+
+      "official_category": "专业核心课程",
+
+      "importance": 5,
+
+      "ai_advice": "数据分析、人工智能、大模型开发的重要基础技能。"
+    },
+
+
+    {
+      "course_name": "数据库原理及应用",
+
+      "official_category": "专业核心课程",
+
+      "importance": 5,
+
+      "ai_advice": "企业数据处理和软件开发的重要能力。"
+    },
+
+
+    {
+      "course_name": "机器学习",
+
+      "official_category": "专业核心课程",
+
+      "importance": 5,
+
+      "ai_advice": "进入人工智能方向的重要课程。"
+    },
+
+
+    {
+      "course_name": "计算机网络",
+
+      "official_category": "专业核心课程",
+
+      "importance": 4,
+
+      "ai_advice": "理解互联网系统和后端开发的重要基础。"
+    }
+
+  ],
+
+
+
+  "learning_priority": {
+
+
+    "must_master": [
+
+      "Python",
+
+      "数据结构",
+
+      "数据库",
+
+      "机器学习",
+
+      "Git",
+
+      "Linux"
+
+    ],
+
+
+    "important_foundation": [
+
+      "高等数学",
+
+      "线性代数",
+
+      "概率统计"
+
+    ],
+
+
+    "graduation_requirement": [
+
+      "公共基础课程",
+
+      "通识教育课程"
+
+    ]
+
+  },
+
+
+
+  "four_year_plan": {
+
+
+    "freshman": {
+
+      "goal": "建立计算机和数学基础",
+
+      "suggestions": [
+
+        "认真学习Python",
+
+        "掌握Git工具",
+
+        "了解专业发展方向",
+
+        "参加基础竞赛"
+
+      ]
+
+    },
+
+
+    "sophomore": {
+
+      "goal": "形成专业技能",
+
+      "suggestions": [
+
+        "深入学习数据结构",
+
+        "学习数据库",
+
+        "完成个人项目",
+
+        "参加专业竞赛"
+
+      ]
+
+    },
+
+
+    "junior": {
+
+      "goal": "形成就业竞争力",
+
+      "suggestions": [
+
+        "学习机器学习",
+
+        "参与项目开发",
+
+        "寻找实习机会"
+
+      ]
+
+    },
+
+
+    "senior": {
+
+      "goal": "完成就业或升学准备",
+
+      "suggestions": [
+
+        "完成毕业设计",
+
+        "准备就业",
+
+        "准备考研"
+
+      ]
+
+    }
+
+  },
+
+
+
+  "practice_requirements": [
+
+    "大数据技术课程实践",
+
+    "数据可视化项目开发",
+
+    "项目综合实训",
+
+    "毕业实习",
+
+    "毕业论文（设计）"
+
+  ]
+
+}
