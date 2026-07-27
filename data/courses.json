@@ -1,0 +1,41 @@
+{
+ "major":"数据科学与大数据技术",
+
+ "careers":[
+
+  {
+   "job":"数据分析师",
+
+   "skills":[
+    "Python",
+    "SQL",
+    "Excel",
+    "数据可视化"
+   ],
+
+   "learning_path":[
+    "学习Python",
+    "学习数据库",
+    "完成数据分析项目"
+   ]
+  },
+
+
+  {
+   "job":"AI应用工程师",
+
+   "skills":[
+    "Python",
+    "大模型API",
+    "后端开发"
+   ],
+
+   "learning_path":[
+    "Python",
+    "FastAPI",
+    "AI应用开发"
+   ]
+  }
+
+ ]
+}

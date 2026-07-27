@@ -1,31 +1,29 @@
-def generate_answer(question, major, school):
-
-    result = []
-
-
-    if "学校" in question or "河池学院" in question:
-
-        result.append(
-            "学校：" + school["school_name"]
-        )
+from prompt_builder import build_prompt
+from deepseek_api import ask_deepseek
 
 
-    if "专业" in question or "数据科学" in question:
+def generate_answer(
+        question,
+        profile,
+        evaluation,
+        major,
+        school
+):
 
-        result.append(
-            "专业：" + major["major_name"]
-        )
+    # 生成AI专用Prompt
+    prompt = build_prompt(
+        question,
+        profile,
+        evaluation,
+        major,
+        school
+    )
 
 
-    if "大一" in question:
-
-        result.append("大一规划：")
-
-        for item in major["four_year_plan"]["freshman"]["suggestions"]:
-
-            result.append(
-                "- " + item
-            )
+    # 调用大模型
+    answer = ask_deepseek(
+        prompt
+    )
 
 
-    return result
+    return answer
